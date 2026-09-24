@@ -10,6 +10,7 @@ This project focuses on conducting user behavior analytics to understand why cus
 
 ## Dataset Structure
 The system processes an `ecommerce_data.csv` matrix featuring:
+* **Dataset link:** [View Generated Project Dataset Folder](https://github.com/ratujamhaske1312-ux/IBM-SkillsBuild-Data-Analytics.git)
 * `Customer_ID`: Unique account indicator
 * `Device`: Access vector (Mobile App, Desktop, Tablet)
 * `Category`: Purchase focus area (Electronics, Clothing, Home, Grocery)
